@@ -2,7 +2,9 @@ package mouli;
 
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
-
+/*
+Class to generate Pascal's Triangle
+*/
 public class Pascal {
 
     public static int[][] getPascal(int depth) {
